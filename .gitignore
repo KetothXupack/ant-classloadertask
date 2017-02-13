@@ -1,0 +1,8 @@
+hs_err_pid*
+.idea/
+.idea_modules/
+*.iws
+*.ipr
+*.iml
+pom.xml
+target/
